@@ -26,3 +26,6 @@ To get code from someone's repository, there are a few options:
 ## How do I create my own GitHub repository?
 Github repositories are easily created using the web GitHub web interface. Some pointers on setting up repository can be found [HERE](https://profmikewood.github.io/intro_to_python_book/web/github.html#setting-up-a-github-repository).
 
+## How can I set up ssh keys to keep my GitHub repository updated?
+To set up ssh keys for your repository, follow the instructions [HERE](https://profmikewood.github.io/intro_to_python_book/web/github.html#setting-up-ssh-keys).
+
