@@ -23,6 +23,6 @@ To get code from someone's repository, there are a few options:
    This option is similar to the previous option but it will create a copy of the code base in a new repository on your account. This option is typically undertaken when you plan to make updates to the code base but need a separate working version for testing your changes.
 
 
-## What do I create my own GitHub repository?
+## How do I create my own GitHub repository?
 Github repositories are easily created using the web GitHub web interface. Some pointers on setting up repository can be found [HERE](https://profmikewood.github.io/intro_to_python_book/web/github.html#setting-up-a-github-repository).
 
