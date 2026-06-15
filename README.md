@@ -1,4 +1,6 @@
 # A Git/Hub Primer
+Author: Mike Wood
+
 The is an example repository to show some Git/Hub tools during the GRISO workshop.
 
 ## What is a GitHub repository used for?
