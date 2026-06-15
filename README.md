@@ -1,5 +1,5 @@
 # A Git/Hub Primer
-Author: Mike Wood
+Author: Mike Wood, Megan Sharkey
 
 The is an example repository to show some Git/Hub tools during the GRISO workshop.
 
