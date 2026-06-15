@@ -30,7 +30,7 @@ plt.xlabel('Temperature (°C)')
 plt.ylabel('Depth (m)')
 
 plt.subplot(1,2,2)
-plt.plot(salinity, depth, 'b-')
+plt.plot(salinity, depth, '-', color = 'magenta')
 plt.gca().invert_yaxis()
 plt.xlabel('Salinity (kg/kg)')
 
